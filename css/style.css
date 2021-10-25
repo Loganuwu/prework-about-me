@@ -13,6 +13,7 @@ body {
 .masthead {
   padding: 6em 0;
   background-image: url('../img/beach\ pic.jpg');
+  background-image: url('');
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -20,7 +21,7 @@ body {
 .masthead-intro {
     margin-bottom: 0.1em;
     font-size: 2em;
-    color: #d40101;
+    color: #ff06c9;
 }
 
 .masthead-heading {
@@ -29,7 +30,7 @@ body {
     font-size: 6em;
     letter-spacing: -0.02em;
     text-transform: uppercase;
-    color: #d40101;
+    color: #ff06c9;
 }
 
 .details {
